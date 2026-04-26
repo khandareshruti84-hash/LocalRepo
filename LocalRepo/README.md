@@ -1,1 +1,1 @@
-# THis IS my Local Repo
+# This IS my Local Repo of GitHub
